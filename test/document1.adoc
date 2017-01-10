@@ -1,0 +1,5 @@
+= Document 1
+
+== Section A
+
+- Link to link:document2.adoc[Document 2]
